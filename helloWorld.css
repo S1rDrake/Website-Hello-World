@@ -1,0 +1,44 @@
+header{
+    text-align:center;
+}
+header img{
+    border-radius: 50px;
+    margin-top: 0px;
+    margin-bottom:0px;
+    width:150px;
+}
+header h1{
+    vertical-align: top;
+}
+body{
+    margin:0;
+    background-color: darkblue;
+}
+h1{
+    color: white;
+    background-color: blue;
+    text-align: center;
+}
+h2{
+    color: white;
+    background-color: blue;
+    text-align: center;
+}
+p{
+    color:white;
+    background-color: blue;
+    text-align: center;
+}
+ul{
+    color:white;
+    background-color: blue;
+    
+}
+links{
+    color:white;
+    background-color: blue;
+}
+footer{
+    text-align: center;
+    text-align: bottom;
+}
